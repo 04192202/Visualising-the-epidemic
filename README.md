@@ -1,2 +1,7 @@
-# Visualising the epidemic
- An outbreak data that can be viewed anywhere and at any time and from which different statistical charts and forecasts can be composed. A visual representation of the regional epidemiological changes
++不同的版本需要更换一个chomedriver
+
+我当时是用的windows系统，所以驱动打了的是win
+现在换了Mac需要将chomedriver由exe更换成dmg
+如果不使用词语搜索功能则无视改更改，（一个可以把每日热搜词汇展示的功能）因为需要去适应selieum
+
+对于的爬虫路径需要更改
